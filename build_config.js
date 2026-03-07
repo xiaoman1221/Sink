@@ -1,7 +1,4 @@
 import fs from 'node:fs'
-import dotenv from 'dotenv'
-
-dotenv.config()
 
 const config = {
   $schema: 'node_modules/wrangler/config-schema.json',
